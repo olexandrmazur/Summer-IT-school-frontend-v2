@@ -1,0 +1,13 @@
+.image {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+}
+.text {
+    font-size: 20px;
+}
+.ingredients {
+    font-size: 20px;
+    list-style-type: square;
+}
