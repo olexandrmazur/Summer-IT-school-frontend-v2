@@ -16,7 +16,8 @@ html, body {
 }
 
 main {
-   background-color: darkgray;
+   background-image: url("fon.jpg");
+   background-repeat: repeat ;
    min-height: calc(100vh - 90px);
    padding: 20px;
    box-sizing: border-box;
